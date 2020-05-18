@@ -1,2 +1,2 @@
 # ruby
-repo containing ds codes in ruby
+repository containing ds codes in ruby
